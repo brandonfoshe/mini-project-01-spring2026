@@ -62,7 +62,7 @@
 
 # ToDo:
 
-## Think of building a similar page (not the exact same one) that can be used for a small/personal business on selling something like baked goods, toys, crafts, etc.
+## Build a similar page (not the exact same one) that can be used for a small/personal business on selling something like baked goods, toys, crafts, etc.
 
 - While designing the page, try to follow some good design principles:
   - simplicity
