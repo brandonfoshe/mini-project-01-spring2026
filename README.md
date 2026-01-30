@@ -56,13 +56,12 @@
 ## Think of building a similar page (not the exact same one) that can be used for a person who is starting a small business on selling “baked goods”.
 
 - Start working towards the goals:
+  - Split responsibilities and set up meetings beyond the class time
+  - Prepare a plan to complete the task
 
-  -- Split responsibilities and set up meetings beyond the class time
-  -- Prepare a plan to complete the task
+### Design the page and deploy [by 02/05/2026, 11:59 PM]
 
-### Design the page and deploy [before next Friday]
-
-### Submission:
+### Submission
 
     - the github link (should have at least 5 commits)
     - live link (netlify or any other platform)
