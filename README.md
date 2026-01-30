@@ -26,14 +26,23 @@
 
 ## Sample Resources:
 
-- HTML
+- HTML (skeleton of your page)
   -- https://www.w3schools.com/html/
-- CSS
+
+- CSS (styling your page)
   -- https://www.w3schools.com/css/default.asp
-- GitHub
+
+- GitHub (repository)
   - https://github.com/
-- Netlify
+
+- Netlify (deploy the site)
   - https://app.netlify.com/
+
+- Interesting Fonts
+  - https://fonts.google.com/
+
+- Icons
+  - https://fontawesome.com/
 
 ### Bad Designs:
 
