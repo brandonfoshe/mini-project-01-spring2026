@@ -56,6 +56,7 @@
 ## Think of building a similar page (not the exact same one) that can be used for a person who is starting a small business on selling “baked goods”.
 
 - Start working towards the goals:
+
   -- Split responsibilities and set up meetings beyond the class time
   -- Prepare a plan to complete the task
 
